@@ -1,0 +1,30 @@
+Python/Coding Goals:
+
+Start+/- 01.02.2023
+
++ Python for beginner lessions + Certificate			| DONE 05.02.2023
++ Intermediate Python lessions + Certificate			| DONE 10.02.2023
++ First Project Takera2D (with step by step guide)		| DONE 17.02.2023
+- Python for Data Structures lessions + Certificate		| 
+- Data Structure Project					|
+- Data Science Project						|
+- Python for Data Science Lessions + Certificate		|
+- Data Science Lessions + Certificate				|
+- Machine Learning lessions + Certificate			|
+- More Data Structure/Science or a Machine Learning Project	|
+- Deep Pandas,Numpy etc. Library lessions			|
+- More Projects (maybe advanced ones if not earlier)		|
+- SQL lessions + Certificate					|
+- HTML + CSS lessions + Certificate				|
+- JavaScript or TypeScript lessions + Certificate		|
+- HTML + CSS based Project maybe with Java or TypeScript	|
+- More Projects							|
++ PyCharm Framework with (Python and Anaconda)			| DONE
+- Django, SQLite and other Frameworks				|
+- LinkedIn + GitHub Account + Profile				|
+- Leetcode problem solving (Easy)				|
+- Leetcode problem solving (Medium)				|
+- Leetcode problem solving (Hard)				|
+- CSS50 2021							|
++ Much Input about Coding BG, Structures, Rules			| DONE
+
